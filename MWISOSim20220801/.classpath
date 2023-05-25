@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/CTAS063/.p2/pool/features/megaware-common-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CTAS063/.p2/pool/features/megaware-listener-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/CTAS063/.p2/pool/features/megaware-util-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Megaware/megaware.home/lib/megaware/megaware-listener-2.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
